@@ -6,7 +6,7 @@
 			"program": "${workspaceFolder}/lib/main.js",
 			"request": "launch",
 			"type": "node",
-			"preLaunchTask": "tsc: build"
-		},
+			"preLaunchTask": "watch"
+		}
 	]
 }
